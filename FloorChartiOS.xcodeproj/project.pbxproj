@@ -120,8 +120,8 @@
 			children = (
 				4F774A5722554CD900CD9F1D /* AppDelegate.swift */,
 				4F774A5922554CD900CD9F1D /* ChartViewController.swift */,
-				4F774A5B22554CD900CD9F1D /* Main.storyboard */,
 				4F774A8522554E3200CD9F1D /* GridCell.swift */,
+				4F774A5B22554CD900CD9F1D /* Main.storyboard */,
 				4F774A5E22554CDC00CD9F1D /* Assets.xcassets */,
 				4F774A6022554CDC00CD9F1D /* LaunchScreen.storyboard */,
 				4F774A6322554CDC00CD9F1D /* Info.plist */,
